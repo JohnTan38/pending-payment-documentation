@@ -15,8 +15,8 @@ export const baseOptions: BaseLayoutProps = {
           src="/images/esker_logo.jpg"
           
           alt='esker logo'
-          width="24"
-          height="24"
+          width="18"
+          height="18"
           style={{ borderRadius: '20%' }}
           aria-label="Logo"
         >
