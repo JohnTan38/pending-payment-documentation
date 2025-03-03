@@ -13,7 +13,9 @@
     --color-fd-background: hsl(0, 0%, 0%);
   }
 
-
+  .gradient-background {
+    background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%);
+    min-height: 100vh;
+  }
 
 @source '../../node_modules/fumadocs-ui/dist/**/*.js';
-
