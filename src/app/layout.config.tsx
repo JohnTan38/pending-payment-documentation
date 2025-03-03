@@ -12,7 +12,7 @@ export const baseOptions: BaseLayoutProps = {
     title: (
       <>
         <img
-          src="/images/esker_logo.jpg"
+          src="/images/esker_logo.JPG"
           
           alt='esker logo'
           width="18"
