@@ -19,12 +19,12 @@ export const baseOptions: BaseLayoutProps = {
           height="28"
           border="0"
           aria-label="Logo"
-        >
-          </a>
+        />
           
-        </img>
+          
+        
         Esker App
-      </>
+      </a>
     ),
   },
   links: [
