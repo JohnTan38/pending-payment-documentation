@@ -17,7 +17,7 @@ export const baseOptions: BaseLayoutProps = {
           alt='33KBhn2.jpg'
           width="48"
           height="28"
-          border="0"
+          
           aria-label="Logo"
         />
           
